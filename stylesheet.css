@@ -61,7 +61,7 @@ li {   font-size: 20px;}
 .header p { font-size: 18px;
               }
 .header h1 {    font-size: 48px;
-                font-weight: bold;
+                
                 margin-bottom: 10px;} 
 
 .header button {  background-color: burlywood; /* Green */
@@ -171,7 +171,7 @@ li {   font-size: 20px;}
 
 
 .text p {    font-size: 25px;
-              font-weight: bold;}
+             }
 
 
 
